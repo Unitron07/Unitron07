@@ -18,6 +18,10 @@ Import an ICS calendar, see your next class, and keep course details and rooms h
 
 ## Experimental projects
 
+### [Nintendo Land Recomp - Native PC Build](https://github.com/Unitron07/Nintendo-Land-Recomp)
+
+An unofficial educational reverse-engineering project for Nintendo Land, Nintendo's 2012 Wii U attraction collection built around local multiplayer and GamePad interaction.
+
 ### [Astraeus VR — Android ARCore tracking](https://github.com/Unitron07/Astraeus-VR)
 
 Experimental Galaxy S24 6DoF tracking and sensor fusion, sent over UDP to a Windows pose viewer. This is tracking research; a complete VR streaming system and runtime driver are not implemented.
